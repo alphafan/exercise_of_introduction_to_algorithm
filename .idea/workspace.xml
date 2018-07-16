@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eefc3202-8d16-49ac-9882-a242801d3c3c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapiter_2/2_1_2_Revered_Insertion_Sort.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/chapiter_2/213_Linear_Search.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/chapiter_2/1_Insertion_Sort.py" afterPath="$PROJECT_DIR$/chapiter_2/2_1_1_Insertion_Sort.py" />
+      <change beforePath="$PROJECT_DIR$/chapiter_2/2_1_1_Insertion_Sort.py" afterPath="$PROJECT_DIR$/chapiter_2/211_Insertion_Sort.py" />
+      <change beforePath="$PROJECT_DIR$/chapiter_2/2_1_2_Revered_Insertion_Sort.py" afterPath="$PROJECT_DIR$/chapiter_2/212_Revered_Insertion_Sort.py" />
       <change beforePath="$PROJECT_DIR$/chapiter_2/README.md" afterPath="$PROJECT_DIR$/chapiter_2/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +18,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2_1_1_Insertion_Sort.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapiter_2/2_1_1_Insertion_Sort.py">
+      <file leaf-file-name="211_Insertion_Sort.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapiter_2/211_Insertion_Sort.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="359">
               <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
@@ -40,12 +41,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapiter_2/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="19">
-                <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+              <first_editor relative-caret-position="76">
+                <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -53,11 +54,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2_1_2_Revered_Insertion_Sort.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapiter_2/2_1_2_Revered_Insertion_Sort.py">
+      <file leaf-file-name="213_Linear_Search.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapiter_2/213_Linear_Search.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="212_Revered_Insertion_Sort.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapiter_2/212_Revered_Insertion_Sort.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -80,9 +91,10 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/chapiter_2/1_Insertion_Sort.py" />
-        <option value="$PROJECT_DIR$/chapiter_2/README.md" />
         <option value="$PROJECT_DIR$/chapiter_2/2_1_1_Insertion_Sort.py" />
         <option value="$PROJECT_DIR$/chapiter_2/2_1_2_Revered_Insertion_Sort.py" />
+        <option value="$PROJECT_DIR$/chapiter_2/README.md" />
+        <option value="$PROJECT_DIR$/chapiter_2/213_Linear_Search.py" />
       </list>
     </option>
   </component>
@@ -173,7 +185,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="exercise_of_introduction_to_algorithm" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapiter_2/2_1_1_Insertion_Sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapiter_2/211_Insertion_Sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,7 +203,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="exercise_of_introduction_to_algorithm" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapiter_2/2_1_2_Revered_Insertion_Sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapiter_2/212_Revered_Insertion_Sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -236,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531749771356</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1531750935900</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1531750935900</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -274,7 +293,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapiter_2/2_1_1_Insertion_Sort.py">
+    <entry file="file://$PROJECT_DIR$/chapiter_2/211_Insertion_Sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
           <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
@@ -282,10 +301,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapiter_2/2_1_2_Revered_Insertion_Sort.py">
+    <entry file="file://$PROJECT_DIR$/chapiter_2/212_Revered_Insertion_Sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -304,11 +323,19 @@
     <entry file="file://$PROJECT_DIR$/chapiter_2/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapiter_2/213_Linear_Search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
