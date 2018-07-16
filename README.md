@@ -8,3 +8,4 @@
 - [2.1.4 加两个二进制的数字](Chapter_2/214_Add_Two_Binary_Number.py)
 ### 2.2 分析算法
 - [2.2.1 大0时间](Chapter_2/221_Big_O_Notation.py)
+- [2.2.2 选择排序](Chapter_2/222_Choose_Sort.py)
