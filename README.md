@@ -9,3 +9,5 @@
 ### 2.2 分析算法
 - [2.2.1 大0时间](Chapter_2/221_Big_O_Notation.md)
 - [2.2.2 选择排序](Chapter_2/222_Choose_Sort.py)
+### 2.3 设计算法
+- [2.3.1 快速排序 Merge Sort](Chapter_2/231_Merge_Sort.py)
