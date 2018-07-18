@@ -12,3 +12,4 @@
 ### 2.3 设计算法
 - [2.3.1 快速排序 Merge Sort](Chapter_2/231_Merge_Sort.py)
 - [2.3.2 递归的插入排序](Chapter_2/232_Recursive_Insertion_Sort.py)
+- [2.3.3 二叉搜索](Chapter_2/233_Binary_Search.py)
