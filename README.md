@@ -18,4 +18,5 @@
 
 ## [第四章 分治算法](Chapter_4)
 ### 4.1 最大子数组问题
-- [4.1.1 最大连续数有最大和](Chapter_4/411_Maximum_Continuous_Sum.py) 
+- [4.1.1 最大连续数有最大和](Chapter_4/411_Maximum_Continuous_Sum_V1.py) 
+- [4.1.2 最大连续数有最大和 ( O(n log n) 解法)](Chapter_4/412_Maximum_Continuous_Sum_V2.py)

@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eefc3202-8d16-49ac-9882-a242801d3c3c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter_4/411_Maximum_Continuous_Sum.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter_4/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter_4/412_Maximum_Continuous_Sum_V2.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Chapter_4/411_Maximum_Continuous_Sum.py" afterPath="$PROJECT_DIR$/Chapter_4/411_Maximum_Continuous_Sum_V1.py" />
+      <change beforePath="$PROJECT_DIR$/Chapter_4/README.md" afterPath="$PROJECT_DIR$/Chapter_4/README.md" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,8 +31,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="308">
-                <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <first_editor relative-caret-position="376">
+                <caret line="21" column="47" lean-forward="false" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -39,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="411_Maximum_Continuous_Sum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_4/411_Maximum_Continuous_Sum.py">
+      <file leaf-file-name="411_Maximum_Continuous_Sum_V1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_4/411_Maximum_Continuous_Sum_V1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -53,11 +54,31 @@
         <entry file="file://$PROJECT_DIR$/Chapter_4/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="2" selection-end-column="51" />
+              <first_editor relative-caret-position="57">
+                <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="412_Maximum_Continuous_Sum_V2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_4/412_Maximum_Continuous_Sum_V2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="codecs.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/untitled/lib/python3.6/codecs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -67,16 +88,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
               <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="233_Binary_Search.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_2/233_Binary_Search.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -104,16 +115,6 @@
                 <folding />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="234_Insertion_Sort_With_Binary_Search.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_2/234_Insertion_Sort_With_Binary_Search.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -160,6 +161,7 @@
         <option value="$PROJECT_DIR$/Chapter_2/README.md" />
         <option value="$PROJECT_DIR$/Chapter_4/411_Maximum_Subarray.py" />
         <option value="$PROJECT_DIR$/Chapter_4/411_Maximum_Continuous_Sum.py" />
+        <option value="$PROJECT_DIR$/Chapter_4/412_Maximum_Continuous_Sum_V2.py" />
         <option value="$PROJECT_DIR$/Chapter_4/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
@@ -244,7 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.411_Maximum_Continuous_Sum">
+  <component name="RunManager" selected="Python.412_Maximum_Continuous_Sum_V2">
     <configuration name="233_Binary_Search" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -281,24 +283,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="234_Recursive_Insertion_Sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="exercise_of_introduction_to_algorithm" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_2/232_Recursive_Insertion_Sort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="235_Two_Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -329,26 +313,44 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="exercise_of_introduction_to_algorithm" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_4/411_Maximum_Continuous_Sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_4/411_Maximum_Continuous_Sum_V1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="412_Maximum_Continuous_Sum_V2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="exercise_of_introduction_to_algorithm" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_4/412_Maximum_Continuous_Sum_V2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.234_Recursive_Insertion_Sort" />
-      <item index="1" class="java.lang.String" itemvalue="Python.233_Binary_Search" />
-      <item index="2" class="java.lang.String" itemvalue="Python.234_Insertion_Sort_With_Binary_Search" />
-      <item index="3" class="java.lang.String" itemvalue="Python.235_Two_Sum" />
-      <item index="4" class="java.lang.String" itemvalue="Python.411_Maximum_Continuous_Sum" />
+      <item index="0" class="java.lang.String" itemvalue="Python.233_Binary_Search" />
+      <item index="1" class="java.lang.String" itemvalue="Python.234_Insertion_Sort_With_Binary_Search" />
+      <item index="2" class="java.lang.String" itemvalue="Python.235_Two_Sum" />
+      <item index="3" class="java.lang.String" itemvalue="Python.411_Maximum_Continuous_Sum" />
+      <item index="4" class="java.lang.String" itemvalue="Python.412_Maximum_Continuous_Sum_V2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.411_Maximum_Continuous_Sum" />
-        <item index="1" class="java.lang.String" itemvalue="Python.235_Two_Sum" />
-        <item index="2" class="java.lang.String" itemvalue="Python.234_Insertion_Sort_With_Binary_Search" />
-        <item index="3" class="java.lang.String" itemvalue="Python.233_Binary_Search" />
-        <item index="4" class="java.lang.String" itemvalue="Python.234_Recursive_Insertion_Sort" />
+        <item index="0" class="java.lang.String" itemvalue="Python.412_Maximum_Continuous_Sum_V2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.411_Maximum_Continuous_Sum" />
+        <item index="2" class="java.lang.String" itemvalue="Python.235_Two_Sum" />
+        <item index="3" class="java.lang.String" itemvalue="Python.234_Insertion_Sort_With_Binary_Search" />
+        <item index="4" class="java.lang.String" itemvalue="Python.233_Binary_Search" />
       </list>
     </recent_temporary>
   </component>
@@ -492,7 +494,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532008228221</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="411">
+      <created>1532092573710</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1532092573710</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -527,7 +536,8 @@
     <MESSAGE value="binary search" />
     <MESSAGE value="update" />
     <MESSAGE value="235" />
-    <option name="LAST_COMMIT_MESSAGE" value="235" />
+    <MESSAGE value="411" />
+    <option name="LAST_COMMIT_MESSAGE" value="411" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -537,7 +547,7 @@
           <line>1</line>
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -582,7 +592,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_4/411_Maximum_Continuous_Sum.py">
+    <entry file="file://$PROJECT_DIR$/Chapter_4/411_Maximum_Continuous_Sum_V1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="8" />
@@ -789,14 +799,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_4/411_Maximum_Continuous_Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_2/211_Insertion_Sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -833,11 +835,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_4/411_Maximum_Continuous_Sum_V1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/untitled/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_4/412_Maximum_Continuous_Sum_V2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_4/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="2" selection-end-column="51" />
+          <first_editor relative-caret-position="57">
+            <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -847,8 +873,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="308">
-            <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <first_editor relative-caret-position="376">
+            <caret line="21" column="47" lean-forward="false" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
             <folding />
           </first_editor>
           <second_editor />
