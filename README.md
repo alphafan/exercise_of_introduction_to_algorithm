@@ -15,3 +15,7 @@
 - [2.3.3 二叉搜索](Chapter_2/233_Binary_Search.py)
 - [2.3.4 利用二叉搜索加速插入排序](Chapter_2/234_Insertion_Sort_With_Binary_Search.py)
 - [2.3.5 Two Sum 问题](Chapter_2/235_Two_Sum.py)
+
+## [第四章 分治算法](Chapter_4)
+### 4.1 最大子数组问题
+- [4.1.1 最大连续数有最大和](Chapter_4/411_Maximum_Continuous_Sum.py) 
