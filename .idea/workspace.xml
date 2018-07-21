@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eefc3202-8d16-49ac-9882-a242801d3c3c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter_5/511_Hire_Assistant_Problem.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter_5/README.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/Chapter_5/511_Hire_Assistant_Problem.md" afterPath="$PROJECT_DIR$/Chapter_5/511_Hire_Assistant_Problem.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -41,12 +39,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="511_Hire_Assistant_Problem.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="511_Hire_Assistant_Problem.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter_5/511_Hire_Assistant_Problem.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="266">
-                <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+              <first_editor relative-caret-position="152">
+                <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -168,9 +166,9 @@
         <option value="$PROJECT_DIR$/Chapter_4/README.md" />
         <option value="$PROJECT_DIR$/Chapter_4/421_Strassen_矩阵乘法_O（nlg7）解法详解.md" />
         <option value="$PROJECT_DIR$/Chapter_4/421_Strassen_Matrix_Multiplication.py" />
-        <option value="$PROJECT_DIR$/Chapter_5/511_Hire_Assistant_Problem.md" />
         <option value="$PROJECT_DIR$/Chapter_5/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Chapter_5/511_Hire_Assistant_Problem.md" />
       </list>
     </option>
   </component>
@@ -585,7 +583,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532171185876</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="511">
+      <created>1532174136808</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1532174136808</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -624,7 +629,8 @@
     <MESSAGE value="421" />
     <MESSAGE value="update" />
     <MESSAGE value="push" />
-    <option name="LAST_COMMIT_MESSAGE" value="push" />
+    <MESSAGE value="511" />
+    <option name="LAST_COMMIT_MESSAGE" value="511" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1031,11 +1037,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_5/511_Hire_Assistant_Problem.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="266">
-            <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <first_editor relative-caret-position="402">
+            <caret line="28" column="29" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1053,11 +1059,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/Chapter_5/511_Hire_Assistant_Problem.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="402">
-            <caret line="28" column="29" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
             <folding />
           </first_editor>
           <second_editor />
