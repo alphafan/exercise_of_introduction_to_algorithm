@@ -24,3 +24,6 @@
 - [4.2.1 Strassen 矩阵乘法 O（nlg7）解法](Chapter_4/421_Strassen_Matrix_Multiplication.py)
 - [4.2.1 Strassen 矩阵乘法 O（nlg7）解法详解](Chapter_4/421_Strassen_矩阵乘法_O（nlg7）解法详解.md)
 
+## [第五章 概率分析和随机算法](Chapter_5)
+### 5.1 雇佣问题
+- [5.1.1 雇佣问题的伪代码](Chapter_5/511_Hire_Assistant_Problem.md)
