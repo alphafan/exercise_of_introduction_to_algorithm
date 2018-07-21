@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eefc3202-8d16-49ac-9882-a242801d3c3c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter_4/421_Strassen_矩阵乘法_O（nlg7）解法详解.md" afterPath="$PROJECT_DIR$/Chapter_4/421_Strassen_矩阵乘法_O（nlg7）解法详解.md" />
+      <change beforePath="$PROJECT_DIR$/Chapter_4/421_Strassen_Matrix_Multiplication.py" afterPath="$PROJECT_DIR$/Chapter_4/421_Strassen_Matrix_Multiplication.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="421_Strassen_Matrix_Multiplication.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="421_Strassen_Matrix_Multiplication.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter_4/421_Strassen_Matrix_Multiplication.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-246">
-              <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+            <state relative-caret-position="247">
+              <caret line="60" column="13" lean-forward="false" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
               <folding>
                 <element signature="e#43#76#0" expanded="true" />
               </folding>
@@ -62,7 +62,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="421_Strassen_矩阵乘法_O（nlg7）解法详解.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="421_Strassen_矩阵乘法_O（nlg7）解法详解.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter_4/421_Strassen_矩阵乘法_O（nlg7）解法详解.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="334">
@@ -160,10 +160,10 @@
         <option value="$PROJECT_DIR$/Chapter_4/411_Maximum_Subarray.py" />
         <option value="$PROJECT_DIR$/Chapter_4/411_Maximum_Continuous_Sum.py" />
         <option value="$PROJECT_DIR$/Chapter_4/412_Maximum_Continuous_Sum_V2.py" />
-        <option value="$PROJECT_DIR$/Chapter_4/421_Strassen_Matrix_Multiplication.py" />
         <option value="$PROJECT_DIR$/Chapter_4/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Chapter_4/421_Strassen_矩阵乘法_O（nlg7）解法详解.md" />
+        <option value="$PROJECT_DIR$/Chapter_4/421_Strassen_Matrix_Multiplication.py" />
       </list>
     </option>
   </component>
@@ -564,7 +564,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532162751750</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="update">
+      <created>1532162830727</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1532162830727</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -989,16 +996,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_4/421_Strassen_Matrix_Multiplication.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-246">
-          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding>
-            <element signature="e#43#76#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_4/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1036,6 +1033,16 @@
         <state relative-caret-position="334">
           <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_4/421_Strassen_Matrix_Multiplication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="60" column="13" lean-forward="false" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+          <folding>
+            <element signature="e#43#76#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
