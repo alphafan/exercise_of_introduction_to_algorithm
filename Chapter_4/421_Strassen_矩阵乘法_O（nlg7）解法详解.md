@@ -20,7 +20,7 @@ divide and conquer method in the sense that this method also divide matrices
 to sub-matrices of size N/2 x N/2 as shown in the above diagram, but in Strassen’s method, 
 the four sub-matrices of result are calculated using following formulae.
  
-<center><img src="strassen_2.png"/></center>
+<center><img src="stressen_2.png"/></center>
 
 __T(N) = 7T(N/2) +  O(N2)__
 
