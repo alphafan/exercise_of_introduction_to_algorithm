@@ -27,3 +27,6 @@
 ## [第五章 概率分析和随机算法](Chapter_5)
 ### 5.1 雇佣问题
 - [5.1.1 雇佣问题的伪代码](Chapter_5/511_Hire_Assistant_Problem.md)
+
+## [第六章 堆排序](Chapter_6)
+### 6.1 堆
