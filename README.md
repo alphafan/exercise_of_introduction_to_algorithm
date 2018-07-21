@@ -22,3 +22,5 @@
 - [4.1.2 最大连续数有最大和 ( O(n) 解法)](Chapter_4/411_Maximum_Continuous_Sum_V1.py)
 ### 4.2 矩阵乘法
 - [4.2.1 Strassen 矩阵乘法 O（nlg7）解法](Chapter_4/421_Strassen_Matrix_Multiplication.py)
+- [4.2.1 Strassen 矩阵乘法 O（nlg7）解法详解](Chapter_4/421_Strassen_矩阵乘法_O（nlg7）解法详解.md)
+
