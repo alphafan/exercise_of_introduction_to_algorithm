@@ -4,9 +4,9 @@ Following is simple Divide and Conquer method to multiply two square matrices.
 - 1. Divide matrices A and B in 4 sub-matrices of size N/2 x N/2 as shown in the below diagram.
 - 2. Calculate following values recursively. ae + bg, af + bh, ce + dg and cf + dh.
 
-<div style="text-align:center"><img src="strassen_1.png"/></div>
+<center><img src="strassen_1.png"/></center>
 
-T(N) = 8T(N/2) + O(N2)  
+__T(N) = 8T(N/2) + O(N2)__  
 
 From Master's Theorem, time complexity of above method is O(N3)
 which is unfortunately same as the above naive method.
@@ -20,9 +20,9 @@ divide and conquer method in the sense that this method also divide matrices
 to sub-matrices of size N/2 x N/2 as shown in the above diagram, but in Strassen’s method, 
 the four sub-matrices of result are calculated using following formulae.
  
-<div style="text-align:center"><img src="strassen_2.png"/></div>
+<center><img src="strassen_2.png"/></center>
 
-T(N) = 7T(N/2) +  O(N2)
+__T(N) = 7T(N/2) +  O(N2)__
 
 From Master's Theorem, time complexity of above method is O(NLog7) which is 
 approximately O(N2.8074)
