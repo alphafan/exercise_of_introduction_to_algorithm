@@ -33,4 +33,6 @@
 - [6.1.1 堆数据结构的简介](Chapter_6/611_Heap.md)
 - [6.1.1 堆的简易实现](Chapter_6/611_Heap.py)
 - [6.1.2 检查一个数组是否是一个堆](Chapter_6/612_Check_Array_Is_Heap.py)
+### 6.2 维护堆的性质
+- [6.2.1 维护最大堆](Chapter_6/621_Max_Heapify.py)
 
