@@ -32,3 +32,5 @@
 ### 6.1 堆
 - [6.1.1 堆数据结构的简介](Chapter_6/611_Heap.md)
 - [6.1.1 堆的简易实现](Chapter_6/611_Heap.py)
+- [6.1.2 检查一个数组是否是一个堆](Chapter_6/612_Check_Array_Is_Heap.py)
+
