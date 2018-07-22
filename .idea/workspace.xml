@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eefc3202-8d16-49ac-9882-a242801d3c3c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter_6/612_Check_Array_Is_Heap.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter_6/README.md" afterPath="$PROJECT_DIR$/Chapter_6/README.md" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/Chapter_6/612_Check_Array_Is_Heap.py" afterPath="$PROJECT_DIR$/Chapter_6/612_Check_Array_Is_Heap.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -39,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="612_Check_Array_Is_Heap.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="612_Check_Array_Is_Heap.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter_6/612_Check_Array_Is_Heap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="171">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -184,9 +182,9 @@
         <option value="$PROJECT_DIR$/Chapter_5/511_Hire_Assistant_Problem.md" />
         <option value="$PROJECT_DIR$/Chapter_6/611_Heap.md" />
         <option value="$PROJECT_DIR$/Chapter_6/611_Heap.py" />
-        <option value="$PROJECT_DIR$/Chapter_6/612_Check_Array_Is_Heap.py" />
         <option value="$PROJECT_DIR$/Chapter_6/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Chapter_6/612_Check_Array_Is_Heap.py" />
       </list>
     </option>
   </component>
@@ -643,7 +641,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532176486143</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="612">
+      <created>1532228792726</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1532228792726</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -685,7 +690,8 @@
     <MESSAGE value="update" />
     <MESSAGE value="heap" />
     <MESSAGE value="611" />
-    <option name="LAST_COMMIT_MESSAGE" value="611" />
+    <MESSAGE value="612" />
+    <option name="LAST_COMMIT_MESSAGE" value="612" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1095,14 +1101,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_6/612_Check_Array_Is_Heap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_6/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1122,6 +1120,14 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_6/612_Check_Array_Is_Heap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
