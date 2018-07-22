@@ -1,6 +1,7 @@
 class HeapChecker(object):
 
     def is_array_heap(self, A):
+        """ Check if all child node is larger than parent node """
         return all(A[i] >= A[(i-1) >> 1] for i in range(1, len(A)))
 
 
