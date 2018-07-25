@@ -35,3 +35,5 @@
 - [6.1.2 检查一个数组是否是一个堆](Chapter_6/612_Check_Array_Is_Heap.py)
 ### 6.2 维护堆的性质
 - [6.2.1 维护最大堆](Chapter_6/621_Max_Heapify.py)
+### 6.3 构建最大堆
+- [6.3.1 构建最大堆](Chapter_6/631_Build_Max_Heap.py)
