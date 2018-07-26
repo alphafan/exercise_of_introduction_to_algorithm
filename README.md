@@ -37,3 +37,5 @@
 - [6.2.1 维护最大堆](Chapter_6/621_Max_Heapify.py)
 ### 6.3 构建最大堆
 - [6.3.1 构建最大堆](Chapter_6/631_Build_Max_Heap.py)
+### 6.4 堆排序
+- [6.4.1 堆排序](Chapter_6/641_Heap_Sort.py)
