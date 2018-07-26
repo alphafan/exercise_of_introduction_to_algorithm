@@ -39,3 +39,5 @@
 - [6.3.1 构建最大堆](Chapter_6/631_Build_Max_Heap.py)
 ### 6.4 堆排序
 - [6.4.1 堆排序](Chapter_6/641_Heap_Sort.py)
+### 6.5 优先队列
+- [6.5.1 最大优先队列](Chapter_6/651_Max_Piority_Queue.py)
