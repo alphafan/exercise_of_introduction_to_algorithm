@@ -1,7 +1,12 @@
+left   = lambda x: 2 * x + 1
+right  = lambda x: 2 * x + 2
+parent = lambda x: int((x-1)/2)
+
+
 def max_heapify(arr, n, i):
     largest = i    # Initialize largest as root
-    l = 2 * i + 1  # left = 2*i + 1
-    r = 2 * i + 2  # right = 2*i + 2
+    l = left(i)    # left = 2*i + 1
+    r = right(i)   # right = 2*i + 2
 
     # See if left child of root exists and is
     # greater than root
@@ -35,8 +40,20 @@ def heap_extract_max(arr: list):
     return maximum
 
 
+def heap_increase_key(arr: list, i: int, key):
+    if key < arr[i]:
+        raise Exception('New key is smaller than current key')
+    arr[i] = key
+    while i > 0 and arr[parent(i)] < arr[i]:
+        arr[i], arr[parent(i)] = arr[parent(i)], arr[i]
+        i = parent(i)
+
+
 if __name__ == '__main__':
     tasks = [9, 3, 5, 6, 7]
+    print('Original :', tasks)
+    heap_increase_key(tasks, 2, 10)
+    print('Increase :', tasks)
     for _ in range(5):
         next_task = heap_extract_max(tasks)
         print('Next task :', next_task)
