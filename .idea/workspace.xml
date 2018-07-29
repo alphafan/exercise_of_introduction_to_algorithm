@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eefc3202-8d16-49ac-9882-a242801d3c3c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter_7/711_Quick_Sort.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter_7/README.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter_6/651_Max_Piority_Queue.py" afterPath="$PROJECT_DIR$/Chapter_6/651_Max_Piority_Queue.py" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="760">
-                <caret line="40" column="31" lean-forward="false" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+              <first_editor relative-caret-position="394">
+                <caret line="46" column="28" lean-forward="false" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -27,21 +29,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="651_Max_Piority_Queue.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter_6/651_Max_Piority_Queue.py">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_7/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="36" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="711_Quick_Sort.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter_7/711_Quick_Sort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="65" column="28" lean-forward="true" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
+            <state relative-caret-position="474">
+              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="611_Heap.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_6/611_Heap.py">
+      <file leaf-file-name="651_Max_Piority_Queue.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_6/651_Max_Piority_Queue.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="208">
+              <caret line="60" column="4" lean-forward="true" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -52,16 +67,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="741">
               <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="612_Check_Array_Is_Heap.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_6/612_Check_Array_Is_Heap.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -182,8 +187,10 @@
         <option value="$PROJECT_DIR$/Chapter_6/631_Build_Max_Heap.py" />
         <option value="$PROJECT_DIR$/Chapter_6/641_Heap_Sort.py" />
         <option value="$PROJECT_DIR$/Chapter_6/README.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Chapter_6/651_Max_Piority_Queue.py" />
+        <option value="$PROJECT_DIR$/Chapter_7/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Chapter_7/711_Quick_Sort.py" />
       </list>
     </option>
   </component>
@@ -239,6 +246,11 @@
               <item name="exercise_of_introduction_to_algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter_6" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="exercise_of_introduction_to_algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercise_of_introduction_to_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_7" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -262,25 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.651_Max_Piority_Queue">
-    <configuration name="612_Check_Array_Is_Heap" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_6" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="exercise_of_introduction_to_algorithm" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_6/612_Check_Array_Is_Heap.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.711_Quick_Sort">
     <configuration name="621_Max_Heapify" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -353,20 +347,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="711_Quick_Sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="exercise_of_introduction_to_algorithm" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_7/711_Quick_Sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.612_Check_Array_Is_Heap" />
-      <item index="1" class="java.lang.String" itemvalue="Python.621_Max_Heapify" />
-      <item index="2" class="java.lang.String" itemvalue="Python.631_Build_Max_Heap" />
-      <item index="3" class="java.lang.String" itemvalue="Python.641_Heap_Sort" />
-      <item index="4" class="java.lang.String" itemvalue="Python.651_Max_Piority_Queue" />
+      <item index="0" class="java.lang.String" itemvalue="Python.621_Max_Heapify" />
+      <item index="1" class="java.lang.String" itemvalue="Python.631_Build_Max_Heap" />
+      <item index="2" class="java.lang.String" itemvalue="Python.641_Heap_Sort" />
+      <item index="3" class="java.lang.String" itemvalue="Python.651_Max_Piority_Queue" />
+      <item index="4" class="java.lang.String" itemvalue="Python.711_Quick_Sort" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.651_Max_Piority_Queue" />
-        <item index="1" class="java.lang.String" itemvalue="Python.641_Heap_Sort" />
-        <item index="2" class="java.lang.String" itemvalue="Python.631_Build_Max_Heap" />
-        <item index="3" class="java.lang.String" itemvalue="Python.621_Max_Heapify" />
-        <item index="4" class="java.lang.String" itemvalue="Python.612_Check_Array_Is_Heap" />
+        <item index="0" class="java.lang.String" itemvalue="Python.711_Quick_Sort" />
+        <item index="1" class="java.lang.String" itemvalue="Python.651_Max_Piority_Queue" />
+        <item index="2" class="java.lang.String" itemvalue="Python.641_Heap_Sort" />
+        <item index="3" class="java.lang.String" itemvalue="Python.631_Build_Max_Heap" />
+        <item index="4" class="java.lang.String" itemvalue="Python.621_Max_Heapify" />
       </list>
     </recent_temporary>
   </component>
@@ -699,7 +711,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532617281827</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="651">
+      <created>1532845958365</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1532845958365</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -775,20 +794,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter_2/212_Revered_Insertion_Sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_2/211_Insertion_Sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_4/412_Maximum_Continuous_Sum_V2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -1130,33 +1135,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_6/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="209">
-            <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_6/641_Heap_Sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="760">
-            <caret line="40" column="31" lean-forward="false" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1168,10 +1151,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_6/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="209">
+            <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_7/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="36" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="394">
+            <caret line="46" column="28" lean-forward="false" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_6/651_Max_Piority_Queue.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="65" column="28" lean-forward="true" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
+        <state relative-caret-position="208">
+          <caret line="60" column="4" lean-forward="true" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_7/711_Quick_Sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>

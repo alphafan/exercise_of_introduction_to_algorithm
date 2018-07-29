@@ -41,3 +41,7 @@
 - [6.4.1 堆排序](Chapter_6/641_Heap_Sort.py)
 ### 6.5 优先队列
 - [6.5.1 最大优先队列](Chapter_6/651_Max_Piority_Queue.py)
+
+## [第七章 快速排序](Chapter_7)
+### 7.1 快速排序的描述
+- [7.1.1 快速排序的实现](Chapter_7/711_Quick_Sort.py)
