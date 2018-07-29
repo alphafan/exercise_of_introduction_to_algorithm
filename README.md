@@ -46,4 +46,4 @@
 ### 7.1 快速排序的描述
 - [7.1.1 快速排序的实现](Chapter_7/711_Quick_Sort.py)
 ### 7.2 快速排序的性能分析
-- [7.2.1 快速排序的性能分析](721_Quick_Sort_Analysis.md)
+- [7.2.1 快速排序的性能分析](Chapter_7/721_Quick_Sort_Analysis.md)
