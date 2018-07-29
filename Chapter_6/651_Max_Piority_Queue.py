@@ -1,3 +1,6 @@
+import math
+
+
 left   = lambda x: 2 * x + 1
 right  = lambda x: 2 * x + 2
 parent = lambda x: int((x-1)/2)
@@ -49,11 +52,18 @@ def heap_increase_key(arr: list, i: int, key):
         i = parent(i)
 
 
+def max_heap_insert(arr: list, key):
+    arr.append(-math.inf)
+    heap_increase_key(arr, len(arr)-1, key)
+
+
 if __name__ == '__main__':
     tasks = [9, 3, 5, 6, 7]
     print('Original :', tasks)
     heap_increase_key(tasks, 2, 10)
     print('Increase :', tasks)
+    max_heap_insert(tasks, 12)
+    print('Insert :', tasks)
     for _ in range(5):
         next_task = heap_extract_max(tasks)
         print('Next task :', next_task)
